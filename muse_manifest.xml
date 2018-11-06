@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aa.ds" resolutions="1x" timestamp="1541515085665">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aa.ds" resolutions="1x" timestamp="1541515929101">
   <folder name="css">
     <file name="site_global.css" crc="362288682"/>
     <file name="master_a-master.css" crc="4070435754" ref="machu:collosium-data:taj:white:chichen-itza:petra-dat:petra:taj-interior:cidata:collosium:untitled-17:taj-det:petra-tre:ctrdata:ctr:machu-p:cidata-copy:the-great-wall-of-china"/>
@@ -64,32 +64,32 @@
     </file>
     <file name="ezgif-2-039198d68ddd.png" crc="492174067" seo="true" ref="taj-interior:taj:taj-det:machu:petra:petra-tre:collosium:ctr:chichen-itza:the-great-wall-of-china:untitled-17:machu-p:petra-dat:collosium-data:ctrdata:cidata:cidata-copy:white">
       <caption webpage="ctrdata" alt=""/>
-      <caption webpage="taj" alt=""/>
-      <caption webpage="ctr" alt=""/>
+      <caption webpage="the-great-wall-of-china" alt=""/>
+      <caption webpage="collosium" alt=""/>
       <caption webpage="untitled-17" alt=""/>
-      <caption webpage="petra" alt=""/>
+      <caption webpage="chichen-itza" alt=""/>
       <caption webpage="white" alt=""/>
       <caption webpage="petra-tre" alt=""/>
       <caption webpage="taj-interior" alt=""/>
       <caption webpage="machu-p" alt=""/>
-      <caption webpage="chichen-itza" alt=""/>
+      <caption webpage="petra" alt=""/>
       <caption webpage="collosium-data" alt=""/>
       <caption webpage="cidata" alt=""/>
       <caption webpage="machu" alt=""/>
       <caption webpage="taj-det" alt=""/>
       <caption webpage="petra-dat" alt=""/>
-      <caption webpage="the-great-wall-of-china" alt=""/>
-      <caption webpage="collosium" alt=""/>
+      <caption webpage="taj" alt=""/>
+      <caption webpage="ctr" alt=""/>
       <caption webpage="cidata-copy" alt=""/>
     </file>
     <file name="wiki-ch.jpg" crc="104795225" seo="true" ref="taj-det:machu-p:petra-dat:collosium-data:ctrdata:cidata:cidata-copy">
       <caption webpage="collosium-data" alt=""/>
       <caption webpage="ctrdata" alt=""/>
-      <caption webpage="cidata-copy" alt=""/>
+      <caption webpage="machu-p" alt=""/>
       <caption webpage="taj-det" alt=""/>
       <caption webpage="cidata" alt=""/>
       <caption webpage="petra-dat" alt=""/>
-      <caption webpage="machu-p" alt=""/>
+      <caption webpage="cidata-copy" alt=""/>
     </file>
     <file name="t1.jpg" crc="4136739316" seo="true" ref="taj-det">
       <caption webpage="taj-det" alt=""/>
@@ -204,7 +204,7 @@
   <file name="petra-dat.html" crc="243042865" seo="true" mt="1541511926502" redirect="true"/>
   <file name="collosium-data.html" crc="308971345" seo="true" mt="1541511926502" redirect="true"/>
   <file name="ctrdata.html" crc="3913945834" seo="true" mt="1541511926502" redirect="true"/>
-  <file name="cidata.html" crc="4066540032" seo="true" mt="1541511926502" redirect="true"/>
+  <file name="cidata.html" crc="58555381" seo="true" mt="1541515915166" redirect="true"/>
   <file name="cidata-copy.html" crc="3949336334" seo="true" mt="1541511926502" redirect="true"/>
   <file name="h1.html" crc="65945353" seo="true" mt="1541513847500" redirect="true"/>
   <file name="white.html" crc="4268144175" seo="true" mt="1541514664223" redirect="true"/>
