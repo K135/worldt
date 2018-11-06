@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aa.ds" resolutions="1x" timestamp="1541520776001">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aa.ds" resolutions="1x" timestamp="1541521572374">
   <folder name="css">
     <file name="site_global.css" crc="362288682"/>
     <file name="master_a-master.css" crc="4070435754" ref="machu:collosium-data:taj:white:chichen-itza:petra-dat:petra:taj-interior:cidata:collosium:untitled-17:taj-det:petra-tre:ctrdata:ctr:machu-p:cidata-copy:the-great-wall-of-china"/>
     <file name="machu.css" crc="535385959" ref="machu"/>
     <file name="collosium-data.css" crc="346960389" ref="collosium-data"/>
     <file name="taj.css" crc="409127195" ref="taj"/>
-    <file name="index.css" crc="188363455" ref="index"/>
+    <file name="index.css" crc="84141039" ref="index"/>
     <file name="white.css" crc="3829438856" ref="white"/>
     <file name="chichen-itza.css" crc="3803752368" ref="chichen-itza"/>
-    <file name="h1.css" crc="4270824047" ref="h1"/>
+    <file name="h1.css" crc="445182287" ref="h1"/>
     <file name="petra-dat.css" crc="4233886242" ref="petra-dat"/>
     <file name="petra.css" crc="323739171" ref="petra"/>
     <file name="taj-interior.css" crc="4122836900" ref="taj-interior"/>
@@ -34,10 +34,6 @@
     <file name="require.js" crc="7928878" ref="index:taj-interior:taj:taj-det:machu:petra:petra-tre:collosium:ctr:chichen-itza:the-great-wall-of-china:untitled-17:machu-p:petra-dat:collosium-data:ctrdata:cidata:cidata-copy:h1:white"/>
   </folder>
   <folder name="images">
-    <file name="wt.png" crc="3760805200" seo="true" ref="index:h1">
-      <caption webpage="index" alt=""/>
-      <caption webpage="h1" alt=""/>
-    </file>
     <file name="ezgif-3-3b6d77ea16ef.jpg" crc="223528785" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -191,8 +187,12 @@
     <file name="white-house-2-633915.png" crc="261785867" seo="true" ref="white">
       <caption webpage="white" alt=""/>
     </file>
+    <file name="wt1.png" crc="4103252479" seo="true" ref="index:h1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="h1" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3972669766" seo="true" mt="1541520758852" redirect="true"/>
+  <file name="index.html" crc="4052605622" seo="true" mt="1541521550804" redirect="true"/>
   <file name="taj-interior.html" crc="4194116512" seo="true" mt="1541511926502" redirect="true"/>
   <file name="taj.html" crc="475400656" seo="true" mt="1541511926502" redirect="true"/>
   <file name="taj-det.html" crc="4204959250" seo="true" mt="1541511926502" redirect="true"/>
@@ -210,6 +210,6 @@
   <file name="ctrdata.html" crc="3913945834" seo="true" mt="1541511926502" redirect="true"/>
   <file name="cidata.html" crc="58555381" seo="true" mt="1541515915166" redirect="true"/>
   <file name="cidata-copy.html" crc="3949336334" seo="true" mt="1541511926502" redirect="true"/>
-  <file name="h1.html" crc="17417105" seo="true" mt="1541520336793" redirect="true"/>
+  <file name="h1.html" crc="3912095826" seo="true" mt="1541521563190" redirect="true"/>
   <file name="white.html" crc="3990692373" seo="true" mt="1541520697438" redirect="true"/>
 </manifest>
