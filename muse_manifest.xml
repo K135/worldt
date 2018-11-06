@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aa.ds" resolutions="1x" timestamp="1541515929101">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aa.ds" resolutions="1x" timestamp="1541516102552">
   <folder name="css">
     <file name="site_global.css" crc="362288682"/>
     <file name="master_a-master.css" crc="4070435754" ref="machu:collosium-data:taj:white:chichen-itza:petra-dat:petra:taj-interior:cidata:collosium:untitled-17:taj-det:petra-tre:ctrdata:ctr:machu-p:cidata-copy:the-great-wall-of-china"/>
     <file name="machu.css" crc="535385959" ref="machu"/>
     <file name="collosium-data.css" crc="346960389" ref="collosium-data"/>
     <file name="taj.css" crc="409127195" ref="taj"/>
-    <file name="index.css" crc="3798476261" ref="index"/>
+    <file name="index.css" crc="188363455" ref="index"/>
     <file name="white.css" crc="452123275" ref="white"/>
     <file name="chichen-itza.css" crc="3803752368" ref="chichen-itza"/>
-    <file name="h1.css" crc="4133451918" ref="h1"/>
+    <file name="h1.css" crc="4270824047" ref="h1"/>
     <file name="petra-dat.css" crc="4233886242" ref="petra-dat"/>
     <file name="petra.css" crc="323739171" ref="petra"/>
     <file name="taj-interior.css" crc="4122836900" ref="taj-interior"/>
@@ -22,6 +22,7 @@
     <file name="machu-p.css" crc="245061039" ref="machu-p"/>
     <file name="cidata-copy.css" crc="3802856769" ref="cidata-copy"/>
     <file name="the-great-wall-of-china.css" crc="4160574760" ref="the-great-wall-of-china"/>
+    <file name="master_b-master.css" crc="3989634070" ref="h1:index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:taj-interior:taj:taj-det:machu:petra:petra-tre:collosium:ctr:chichen-itza:the-great-wall-of-china:untitled-17:machu-p:petra-dat:collosium-data:ctrdata:cidata:cidata-copy:h1:white"/>
@@ -188,7 +189,7 @@
       <caption webpage="h1" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4038473233" seo="true" mt="1541510593579" redirect="true"/>
+  <file name="index.html" crc="4185957834" seo="true" mt="1541516093784" redirect="true"/>
   <file name="taj-interior.html" crc="4194116512" seo="true" mt="1541511926502" redirect="true"/>
   <file name="taj.html" crc="475400656" seo="true" mt="1541511926502" redirect="true"/>
   <file name="taj-det.html" crc="4204959250" seo="true" mt="1541511926502" redirect="true"/>
@@ -206,6 +207,6 @@
   <file name="ctrdata.html" crc="3913945834" seo="true" mt="1541511926502" redirect="true"/>
   <file name="cidata.html" crc="58555381" seo="true" mt="1541515915166" redirect="true"/>
   <file name="cidata-copy.html" crc="3949336334" seo="true" mt="1541511926502" redirect="true"/>
-  <file name="h1.html" crc="65945353" seo="true" mt="1541513847500" redirect="true"/>
+  <file name="h1.html" crc="3985716049" seo="true" mt="1541516093784" redirect="true"/>
   <file name="white.html" crc="4268144175" seo="true" mt="1541514664223" redirect="true"/>
 </manifest>
