@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://aa.ds/index.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://aa.ds/images/wt1.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://aa.ds/chichen-itza.html</loc>
+    <lastmod>2018-11-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aa.ds/images/ezgif-2-039198d68ddd.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aa.ds/images/chichen-3-210330.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -124,7 +136,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://aa.ds/chichen-itza.html</loc>
+    <loc>http://aa.ds/collosium-data.html</loc>
     <lastmod>2018-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -132,7 +144,19 @@
       <image:loc>http://aa.ds/images/ezgif-2-039198d68ddd.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aa.ds/images/chichen-3-210330.png</image:loc>
+      <image:loc>http://aa.ds/images/wiki-ch.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aa.ds/images/c3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aa.ds/images/c4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aa.ds/images/c1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aa.ds/images/c2.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -205,7 +229,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://aa.ds/collosium-data.html</loc>
+    <loc>http://aa.ds/cidata-copy.html</loc>
     <lastmod>2018-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -216,16 +240,16 @@
       <image:loc>http://aa.ds/images/wiki-ch.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aa.ds/images/c3.jpg</image:loc>
+      <image:loc>http://aa.ds/images/gc1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aa.ds/images/c4.jpg</image:loc>
+      <image:loc>http://aa.ds/images/gc2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aa.ds/images/c1.jpg</image:loc>
+      <image:loc>http://aa.ds/images/gc3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aa.ds/images/c2.jpg</image:loc>
+      <image:loc>http://aa.ds/images/gc4.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -262,32 +286,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://aa.ds/cidata-copy.html</loc>
-    <lastmod>2018-11-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aa.ds/images/ezgif-2-039198d68ddd.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aa.ds/images/wiki-ch.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aa.ds/images/gc1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aa.ds/images/gc2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aa.ds/images/gc3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aa.ds/images/gc4.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://aa.ds/h1.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -305,5 +305,11 @@
     <image:image>
       <image:loc>http://aa.ds/images/white-house-2-633915.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://aa.ds/assets/ezgif-2-039a1f41f8d2.gif</loc>
+    <lastmod>2018-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
