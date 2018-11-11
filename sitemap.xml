@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://aa.ds/index.html</loc>
-    <lastmod>2018-11-10</lastmod>
+    <lastmod>2018-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>http://aa.ds/chichen-itza.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -22,8 +22,20 @@
     </image:image>
   </url>
   <url>
+    <loc>http://aa.ds/the-great-wall-of-china.html</loc>
+    <lastmod>2018-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aa.ds/images/ezgif-2-039198d68ddd.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aa.ds/images/great-wall-of-china-1-625885.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://aa.ds/taj-interior.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -35,7 +47,7 @@
   </url>
   <url>
     <loc>http://aa.ds/taj.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -47,7 +59,7 @@
   </url>
   <url>
     <loc>http://aa.ds/taj-det.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -77,7 +89,7 @@
   </url>
   <url>
     <loc>http://aa.ds/machu.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -89,7 +101,7 @@
   </url>
   <url>
     <loc>http://aa.ds/petra.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -101,7 +113,7 @@
   </url>
   <url>
     <loc>http://aa.ds/petra-tre.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -113,7 +125,7 @@
   </url>
   <url>
     <loc>http://aa.ds/collosium.html</loc>
-    <lastmod>2018-11-07</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -125,7 +137,7 @@
   </url>
   <url>
     <loc>http://aa.ds/ctr.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -137,7 +149,7 @@
   </url>
   <url>
     <loc>http://aa.ds/collosium-data.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -160,20 +172,29 @@
     </image:image>
   </url>
   <url>
-    <loc>http://aa.ds/the-great-wall-of-china.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <loc>http://aa.ds/ctrdata.html</loc>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://aa.ds/images/ezgif-2-039198d68ddd.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://aa.ds/images/great-wall-of-china-1-625885.png</image:loc>
+      <image:loc>http://aa.ds/images/wiki-ch.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aa.ds/images/ct1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aa.ds/images/ct2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aa.ds/images/ct4.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://aa.ds/untitled-17.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -185,7 +206,7 @@
   </url>
   <url>
     <loc>http://aa.ds/machu-p.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -206,7 +227,7 @@
   </url>
   <url>
     <loc>http://aa.ds/petra-dat.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -230,7 +251,7 @@
   </url>
   <url>
     <loc>http://aa.ds/cidata-copy.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -253,39 +274,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://aa.ds/ctrdata.html</loc>
-    <lastmod>2018-11-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aa.ds/images/ezgif-2-039198d68ddd.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aa.ds/images/wiki-ch.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aa.ds/images/ct1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aa.ds/images/ct2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aa.ds/images/ct4.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://aa.ds/cidata.html</loc>
-    <lastmod>2018-11-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://aa.ds/images/ezgif-2-039198d68ddd.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://aa.ds/images/wiki-ch.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://aa.ds/h1.html</loc>
     <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -295,8 +283,20 @@
     </image:image>
   </url>
   <url>
+    <loc>http://aa.ds/cidata.html</loc>
+    <lastmod>2018-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://aa.ds/images/ezgif-2-039198d68ddd.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://aa.ds/images/wiki-ch.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://aa.ds/white.html</loc>
-    <lastmod>2018-11-06</lastmod>
+    <lastmod>2018-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -305,6 +305,12 @@
     <image:image>
       <image:loc>http://aa.ds/images/white-house-2-633915.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://aa.ds/assets/earth.gif</loc>
+    <lastmod>2018-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://aa.ds/assets/ezgif-2-039a1f41f8d2.gif</loc>

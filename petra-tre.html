@@ -17,8 +17,8 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>petra tre</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=362288682"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4070435754"/>
-  <link rel="stylesheet" type="text/css" href="css/petra-tre.css?crc=285485387" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=4232169664"/>
+  <link rel="stylesheet" type="text/css" href="css/petra-tre.css?crc=3977253381" id="pagesheet"/>
     <!--HTML Widget code-->
   
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -36,6 +36,30 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 				</style>
             
 <style>
+#preloader {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #7F7F7F;
+	z-index: 99999;
+}
+
+#status {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	background-image: url(./assets/earth.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: -100px 0 0 -100px;
+}
+</style>
+
+<style>
 
 </style>
 
@@ -43,6 +67,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
  </head>
  <body>
 
+  <!--HTML Widget code-->
+  
+<div id="preloader">
+	<div id="status"></div>
+</div>
+
+  
   <div class="clearfix borderbox" id="page"><!-- group -->
    <div class="clearfix grpelem" id="pu391"><!-- column -->
     <div class="size_fixed colelem" id="u391" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
@@ -54,6 +85,10 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
                 <div></div>
             
     </div>
+   </div>
+   <div class="size_fixed grpelem" id="u2432" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
+    
+
    </div>
    <div class="clearfix grpelem" id="pu847"><!-- group -->
     <div class="browser_width" id="u847-bw">
@@ -143,5 +178,13 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQWFQPR"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	
+<script type="text/javascript">
+$(window).load(function() {
+	$('#status').fadeOut();
+	$('#preloader').delay(350).fadeOut('slow');
+	$('body').delay(350).css({'overflow':'visible'});
+});
+</script>
+
    </body>
 </html>
