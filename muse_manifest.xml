@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aa.ds" resolutions="1x" timestamp="1541973157699">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aa.ds" resolutions="1x" timestamp="1541987751128">
   <folder name="assets">
     <file name="ezgif-2-039a1f41f8d2.gif" crc="487186153" seo="true" mt="1541844504000"/>
-    <file name="earth.gif" crc="3836640769" seo="true" mt="1541849483000"/>
+    <file name="world.gif" crc="4260656396" seo="true" mt="1541986764000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="362288682"/>
@@ -9,10 +9,10 @@
     <file name="machu.css" crc="86932699" ref="machu"/>
     <file name="collosium-data.css" crc="3985332666" ref="collosium-data"/>
     <file name="taj.css" crc="32756410" ref="taj"/>
-    <file name="index.css" crc="431464436" ref="index"/>
+    <file name="index.css" crc="206540725" ref="index"/>
     <file name="white.css" crc="4107536226" ref="white"/>
     <file name="chichen-itza.css" crc="4064286573" ref="chichen-itza"/>
-    <file name="h1.css" crc="456697218" ref="h1"/>
+    <file name="h1.css" crc="3854477069" ref="h1"/>
     <file name="petra-dat.css" crc="452708134" ref="petra-dat"/>
     <file name="petra.css" crc="179475004" ref="petra"/>
     <file name="taj-interior.css" crc="4236255857" ref="taj-interior"/>
@@ -65,30 +65,30 @@
     </file>
     <file name="ezgif-2-039198d68ddd.png" crc="492174067" seo="true" ref="taj-interior:taj:taj-det:machu:petra:petra-tre:collosium:ctr:chichen-itza:the-great-wall-of-china:untitled-17:machu-p:petra-dat:collosium-data:ctrdata:cidata:cidata-copy:white">
       <caption webpage="ctrdata" alt=""/>
-      <caption webpage="cidata-copy" alt=""/>
+      <caption webpage="collosium-data" alt=""/>
       <caption webpage="taj-interior" alt=""/>
       <caption webpage="machu-p" alt=""/>
       <caption webpage="white" alt=""/>
-      <caption webpage="petra-dat" alt=""/>
-      <caption webpage="untitled-17" alt=""/>
+      <caption webpage="taj" alt=""/>
       <caption webpage="ctr" alt=""/>
       <caption webpage="cidata" alt=""/>
-      <caption webpage="taj" alt=""/>
-      <caption webpage="machu" alt=""/>
+      <caption webpage="collosium" alt=""/>
+      <caption webpage="untitled-17" alt=""/>
       <caption webpage="the-great-wall-of-china" alt=""/>
       <caption webpage="chichen-itza" alt=""/>
       <caption webpage="petra-tre" alt=""/>
       <caption webpage="taj-det" alt=""/>
-      <caption webpage="collosium-data" alt=""/>
+      <caption webpage="machu" alt=""/>
+      <caption webpage="cidata-copy" alt=""/>
       <caption webpage="petra" alt=""/>
-      <caption webpage="collosium" alt=""/>
+      <caption webpage="petra-dat" alt=""/>
     </file>
     <file name="wiki-ch.jpg" crc="104795225" seo="true" ref="taj-det:machu-p:petra-dat:collosium-data:ctrdata:cidata:cidata-copy">
       <caption webpage="ctrdata" alt=""/>
-      <caption webpage="collosium-data" alt=""/>
+      <caption webpage="cidata-copy" alt=""/>
       <caption webpage="machu-p" alt=""/>
       <caption webpage="taj-det" alt=""/>
-      <caption webpage="cidata-copy" alt=""/>
+      <caption webpage="collosium-data" alt=""/>
       <caption webpage="cidata" alt=""/>
       <caption webpage="petra-dat" alt=""/>
     </file>
@@ -195,25 +195,29 @@
       <caption webpage="index" alt=""/>
       <caption webpage="h1" alt=""/>
     </file>
+    <file name="phone_celular_wallpa_h4ge0.jpg" crc="3936496298" ref="index:h1">
+      <caption webpage="index" alt=""/>
+      <caption webpage="h1" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4166501211" seo="true" mt="1541972974792" redirect="true"/>
-  <file name="taj-interior.html" crc="23060444" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="taj.html" crc="4086843578" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="taj-det.html" crc="412574430" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="machu.html" crc="4276957359" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="petra.html" crc="4101247615" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="petra-tre.html" crc="4208622086" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="collosium.html" crc="61948911" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="ctr.html" crc="492630561" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="chichen-itza.html" crc="42812636" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="the-great-wall-of-china.html" crc="3940399412" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="untitled-17.html" crc="4144527055" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="machu-p.html" crc="4254068697" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="petra-dat.html" crc="4285101558" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="collosium-data.html" crc="3787326683" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="ctrdata.html" crc="4255137273" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="cidata.html" crc="3888383586" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="cidata-copy.html" crc="520870376" seo="true" mt="1541849615683" redirect="true"/>
-  <file name="h1.html" crc="91080491" seo="true" mt="1541844806293" redirect="true"/>
-  <file name="white.html" crc="4169393317" seo="true" mt="1541849615683" redirect="true"/>
+  <file name="index.html" crc="79244303" seo="true" mt="1541987732786" redirect="true"/>
+  <file name="taj-interior.html" crc="3865910707" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="taj.html" crc="3837530376" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="taj-det.html" crc="3624934" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="machu.html" crc="379762574" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="petra.html" crc="363442888" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="petra-tre.html" crc="3956838697" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="collosium.html" crc="98146117" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="ctr.html" crc="4152951625" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="chichen-itza.html" crc="3845789360" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="the-great-wall-of-china.html" crc="119695046" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="untitled-17.html" crc="4000349744" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="machu-p.html" crc="211229214" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="petra-dat.html" crc="44349962" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="collosium-data.html" crc="3762442651" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="ctrdata.html" crc="4239814372" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="cidata.html" crc="13137758" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="cidata-copy.html" crc="3900090852" seo="true" mt="1541986796569" redirect="true"/>
+  <file name="h1.html" crc="83854121" seo="true" mt="1541987154855" redirect="true"/>
+  <file name="white.html" crc="3896064512" seo="true" mt="1541986796569" redirect="true"/>
 </manifest>
