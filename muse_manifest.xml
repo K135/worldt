@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aa.ds" resolutions="1x" timestamp="1541987751128">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="aa.ds" resolutions="1x" timestamp="1541989301835">
   <folder name="assets">
     <file name="ezgif-2-039a1f41f8d2.gif" crc="487186153" seo="true" mt="1541844504000"/>
     <file name="world.gif" crc="4260656396" seo="true" mt="1541986764000"/>
@@ -9,7 +9,7 @@
     <file name="machu.css" crc="86932699" ref="machu"/>
     <file name="collosium-data.css" crc="3985332666" ref="collosium-data"/>
     <file name="taj.css" crc="32756410" ref="taj"/>
-    <file name="index.css" crc="206540725" ref="index"/>
+    <file name="index.css" crc="172270601" ref="index"/>
     <file name="white.css" crc="4107536226" ref="white"/>
     <file name="chichen-itza.css" crc="4064286573" ref="chichen-itza"/>
     <file name="h1.css" crc="3854477069" ref="h1"/>
@@ -200,7 +200,7 @@
       <caption webpage="h1" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="79244303" seo="true" mt="1541987732786" redirect="true"/>
+  <file name="index.html" crc="419813704" seo="true" mt="1541988857069" redirect="true"/>
   <file name="taj-interior.html" crc="3865910707" seo="true" mt="1541986796569" redirect="true"/>
   <file name="taj.html" crc="3837530376" seo="true" mt="1541986796569" redirect="true"/>
   <file name="taj-det.html" crc="3624934" seo="true" mt="1541986796569" redirect="true"/>
